@@ -1,15 +1,13 @@
+This a web app for organizing songs youre working on, I had a social media aspect to it with likes and comments 
+but decided to remove it. I wanted to stick to the core of why I made it in the first place, so I could organize my own music. 
+
+These are just notes for me:
+
 x added a "details" portion of the "Post" model
 x added a details portion to the createPost controller
 x added details form in profile.ejs
 x added <%= post.details %> ejs to my post.ejs
 x it worked!
-
-
-Forms we need:
-
-Lyrics
-
-Tempo
 
 also song upload form
 
@@ -34,6 +32,8 @@ removed feed from profile and posts
 
 removed comment feature and like button feature, removed like comment and delete comment
 
-I wanted this to be more of a personal orginizer and less of a social media site. I might implement the social media parts again
 
 added flowbite to header and footer
+
+Need to add Google auth , soundcloud auth and an update form for editing
+
