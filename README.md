@@ -11,7 +11,7 @@ Lyrics
 
 Tempo
 
-also song upload form (need to figure out how to do this)
+also song upload form
 
 x added lyrics / tempo to post model
 x added lyrics / tempo to createPost controller
